@@ -1,1 +1,1 @@
-Data-Mining-and-Warehousing-Lab-Assignment-
+Data-Mining-and-Warehousing-Lab-Assignment
